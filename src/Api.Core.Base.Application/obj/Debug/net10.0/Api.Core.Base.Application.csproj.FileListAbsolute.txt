@@ -1,0 +1,15 @@
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/obj/Debug/net10.0/Api.Core.Base.Application.csproj.AssemblyReference.cache
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/obj/Debug/net10.0/Api.Core.Base.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/obj/Debug/net10.0/Api.Core.Base.Application.AssemblyInfoInputs.cache
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/obj/Debug/net10.0/Api.Core.Base.Application.AssemblyInfo.cs
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/obj/Debug/net10.0/Api.Core.Base.Application.csproj.CoreCompileInputs.cache
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/bin/Debug/net10.0/Api.Core.Base.Application.deps.json
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/bin/Debug/net10.0/Api.Core.Base.Application.dll
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/bin/Debug/net10.0/Api.Core.Base.Application.pdb
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/bin/Debug/net10.0/Api.Core.Base.Domain.dll
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/bin/Debug/net10.0/Api.Core.Base.Domain.pdb
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/obj/Debug/net10.0/Api.Core.28A55686.Up2Date
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/obj/Debug/net10.0/Api.Core.Base.Application.dll
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/obj/Debug/net10.0/refint/Api.Core.Base.Application.dll
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/obj/Debug/net10.0/Api.Core.Base.Application.pdb
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Application/obj/Debug/net10.0/ref/Api.Core.Base.Application.dll

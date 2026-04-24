@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Api.Core.Base.Domain/1.0.0": {
+        "runtime": {
+          "Api.Core.Base.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Api.Core.Base.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

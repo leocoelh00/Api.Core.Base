@@ -1,0 +1,11 @@
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/bin/Debug/net10.0/Api.Core.Base.Domain.deps.json
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/bin/Debug/net10.0/Api.Core.Base.Domain.dll
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/bin/Debug/net10.0/Api.Core.Base.Domain.pdb
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/obj/Debug/net10.0/Api.Core.Base.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/obj/Debug/net10.0/Api.Core.Base.Domain.AssemblyInfoInputs.cache
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/obj/Debug/net10.0/Api.Core.Base.Domain.AssemblyInfo.cs
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/obj/Debug/net10.0/Api.Core.Base.Domain.csproj.CoreCompileInputs.cache
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/obj/Debug/net10.0/Api.Core.Base.Domain.dll
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/obj/Debug/net10.0/refint/Api.Core.Base.Domain.dll
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/obj/Debug/net10.0/Api.Core.Base.Domain.pdb
+/Users/lcoelh00/Desktop/Produtos/Api.Core.Base/src/Api.Core.Base.Domain/obj/Debug/net10.0/ref/Api.Core.Base.Domain.dll
