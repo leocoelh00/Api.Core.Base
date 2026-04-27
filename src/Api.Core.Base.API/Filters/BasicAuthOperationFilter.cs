@@ -14,14 +14,6 @@ public class BasicAuthOperationFilter : IOperationFilter
             .Any();
 
         if (hasAllowAnonymous)
-            return;
-
-        operation.Security =
-        [
-            new OpenApiSecurityRequirement
-            {
-                { new OpenApiSecuritySchemeReference("Basic"), new List<string>() }
-            }
-        ];
+            operation.Security = [];
     }
 }

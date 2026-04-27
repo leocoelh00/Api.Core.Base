@@ -23,6 +23,11 @@ public static class SwaggerExtensions
                 Description = "Basic Authentication — informe usuário e senha"
             });
 
+            options.AddSecurityRequirement(document => new OpenApiSecurityRequirement
+            {
+                { new OpenApiSecuritySchemeReference("Basic", document), new List<string>() }
+            });
+
             options.OperationFilter<BasicAuthOperationFilter>();
         });
 

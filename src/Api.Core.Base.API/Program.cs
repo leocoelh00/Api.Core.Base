@@ -12,7 +12,9 @@ builder.Services.AddSwaggerConfiguration();
 
 var app = builder.Build();
 
-app.UseHttpsRedirection();
+if (!app.Environment.IsDevelopment())
+    app.UseHttpsRedirection();
+
 app.UseSwaggerConfiguration();
 app.UseAuthentication();
 app.UseAuthorization();
